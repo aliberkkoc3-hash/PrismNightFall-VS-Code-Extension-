@@ -4,6 +4,10 @@
   "description": "Prism Crew estetiğinden esinlenilmiş, neon renkli bir koyu tema.",
   "version": "0.0.1",
   "publisher": "PrismCrew",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliberkkoc3-hash/PrismNightFall-VS-Code-Extension-.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
