@@ -1,0 +1,22 @@
+{
+  "name": "prism-nightfall",
+  "displayName": "Prism Nightfall",
+  "description": "Prism Crew estetiğinden esinlenilmiş, neon renkli bir koyu tema.",
+  "version": "0.0.1",
+  "publisher": "PrismCrew",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Prism Nightfall",
+        "uiTheme": "vs-dark",
+        "path": "./themes/prism-nightfall-color-theme.json"
+      }
+    ]
+  }
+}
